@@ -1,3 +1,3 @@
 # Quiz_flutter
 
-small quiz is implemented using flutter.
+This is a small quiz on flutter.
